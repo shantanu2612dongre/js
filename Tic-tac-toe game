@@ -1,0 +1,1 @@
+this is a simple Tic-Tac-Toe game where the user plays the game turn by turn ,the winner is decided when the user gets either value "O" or "X" in a desired pattern under the boxes , if not then the game is draw , in that case user can reset the game top play a new one
