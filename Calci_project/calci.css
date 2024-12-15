@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: burlywood;
+    text-decoration: whitesmoke;
+}
+.container{
+    border: 2px solid black;
+    border-radius: 2px;
+    width: 200px;
+}
+#display{
+    margin: 10px;
+    width: 85%;
+    font-size: 25px;
+}
+.buttons-set{
+    display: flex;
+    justify-content:center;
+    flex-wrap: wrap;
+}
+
+.button{
+    width: 45px;
+    height: 45px;
+    margin: 3px;
+}
